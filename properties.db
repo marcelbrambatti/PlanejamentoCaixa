@@ -1,0 +1,17 @@
+DriverName=MySQL
+HostName=192.168.180.128
+#HostName=192.168.0.11
+#HostName=192.168.220.128
+#HostName=10.0.0.2
+#HostName=192.168.137.82
+#HostName=192.168.43.78
+Database=unimed-caixa
+User_Name=root
+Password=root
+ServerCharSet=
+BlobSize=-1
+ErrorResourceFile=
+LocaleCode=0000
+Compressed=False
+Encrypted=False
+ConnectTimeout=60

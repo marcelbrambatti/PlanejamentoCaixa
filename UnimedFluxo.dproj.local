@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/31 21:29:01.000.289,=D:\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/31 21:51:04.000.128,D:\Embarcadero\Projects\Unit1.dfm=D:\DelphiProjects\UnimedFluxo\frmMenu.dfm</Transaction>
+    <Transaction>2020/10/31 21:51:04.000.128,D:\Embarcadero\Projects\Unit1.pas=D:\DelphiProjects\UnimedFluxo\frmMenu.pas</Transaction>
+    <Transaction>2020/10/31 21:51:15.000.597,D:\Embarcadero\Projects\Project4.dproj=D:\DelphiProjects\UnimedFluxo\UnimedFluxo.dproj</Transaction>
+    <Transaction>2020/10/31 21:52:40.000.567,=D:\DelphiProjects\UnimedFluxo\dmConexao.pas</Transaction>
+    <Transaction>2020/10/31 22:31:05.000.875,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/10/31 22:33:13.000.588,D:\DelphiProjects\UnimedFluxo\Unit1.dfm=D:\DelphiProjects\UnimedFluxo\dmParams.dfm</Transaction>
+    <Transaction>2020/10/31 22:33:13.000.588,D:\DelphiProjects\UnimedFluxo\Unit1.pas=D:\DelphiProjects\UnimedFluxo\dmParams.pas</Transaction>
+    <Transaction>2020/10/31 22:51:42.000.438,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/10/31 22:52:09.000.258,D:\DelphiProjects\UnimedFluxo\Unit1.dfm=D:\DelphiProjects\UnimedFluxo\frmSelContaFluxo.dfm</Transaction>
+    <Transaction>2020/10/31 22:52:09.000.258,D:\DelphiProjects\UnimedFluxo\Unit1.pas=D:\DelphiProjects\UnimedFluxo\frmSelContaFluxo.pas</Transaction>
+    <Transaction>2020/11/01 10:07:54.000.451,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/01 10:07:58.000.871,=D:\DelphiProjects\UnimedFluxo\Unit2.pas</Transaction>
+    <Transaction>2020/11/01 10:08:13.000.530,D:\DelphiProjects\UnimedFluxo\frmCadContaFluxo.dfm=D:\DelphiProjects\UnimedFluxo\Unit1.dfm</Transaction>
+    <Transaction>2020/11/01 10:08:13.000.530,D:\DelphiProjects\UnimedFluxo\frmCadContaFluxo.pas=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/01 10:08:22.000.902,D:\DelphiProjects\UnimedFluxo\dmContaFluxo.dfm=D:\DelphiProjects\UnimedFluxo\Unit2.dfm</Transaction>
+    <Transaction>2020/11/01 10:08:22.000.902,D:\DelphiProjects\UnimedFluxo\dmContaFluxo.pas=D:\DelphiProjects\UnimedFluxo\Unit2.pas</Transaction>
+    <Transaction>2020/11/01 10:24:54.000.266,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/01 10:25:26.000.911,D:\DelphiProjects\UnimedFluxo\frmCadParams.dfm=D:\DelphiProjects\UnimedFluxo\Unit1.dfm</Transaction>
+    <Transaction>2020/11/01 10:25:26.000.911,D:\DelphiProjects\UnimedFluxo\frmCadParams.pas=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/05 10:05:52.000.515,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/05 10:07:04.000.970,D:\DelphiProjects\UnimedFluxo\Unit1.dfm=D:\DelphiProjects\UnimedFluxo\frmLocaliza.dfm</Transaction>
+    <Transaction>2020/11/05 10:07:04.000.970,D:\DelphiProjects\UnimedFluxo\Unit1.pas=D:\DelphiProjects\UnimedFluxo\frmLocaliza.pas</Transaction>
+    <Transaction>2020/11/23 19:52:24.000.279,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/23 19:54:44.000.244,D:\DelphiProjects\UnimedFluxo\frmFiltroImpressao.dfm=D:\DelphiProjects\UnimedFluxo\Unit1.dfm</Transaction>
+    <Transaction>2020/11/23 19:54:44.000.244,D:\DelphiProjects\UnimedFluxo\frmFiltroImpressao.pas=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/23 19:54:56.000.012,=D:\DelphiProjects\UnimedFluxo\Unit2.pas</Transaction>
+    <Transaction>2020/11/23 19:55:20.000.743,D:\DelphiProjects\UnimedFluxo\frmRelatorio.dfm=D:\DelphiProjects\UnimedFluxo\Unit2.dfm</Transaction>
+    <Transaction>2020/11/23 19:55:20.000.743,D:\DelphiProjects\UnimedFluxo\frmRelatorio.pas=D:\DelphiProjects\UnimedFluxo\Unit2.pas</Transaction>
+    <Transaction>2020/11/23 19:56:34.000.235,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/23 19:56:47.000.937,D:\DelphiProjects\UnimedFluxo\frmFiltroImpressaoCliente.pas=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/23 19:56:47.000.937,D:\DelphiProjects\UnimedFluxo\frmFiltroImpressaoCliente.dfm=D:\DelphiProjects\UnimedFluxo\Unit1.dfm</Transaction>
+    <Transaction>2020/11/23 19:56:57.000.751,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/23 19:57:07.000.762,D:\DelphiProjects\UnimedFluxo\frmRelatorioClientes.pas=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+    <Transaction>2020/11/23 19:57:07.000.762,D:\DelphiProjects\UnimedFluxo\frmRelatorioClientes.dfm=D:\DelphiProjects\UnimedFluxo\Unit1.dfm</Transaction>
+    <Transaction>2020/11/23 20:09:09.000.239,D:\DelphiProjects\UnimedFluxo\frmRelatorioCidades.dfm=D:\DelphiProjects\UnimedFluxo\frmRelatorioClientes.dfm</Transaction>
+    <Transaction>2020/11/23 20:09:09.000.239,D:\DelphiProjects\UnimedFluxo\frmRelatorioCidades.pas=D:\DelphiProjects\UnimedFluxo\frmRelatorioClientes.pas</Transaction>
+    <Transaction>2020/11/23 20:09:17.000.176,D:\DelphiProjects\UnimedFluxo\frmFiltroImpressaoCidades.pas=D:\DelphiProjects\UnimedFluxo\frmFiltroImpressaoCliente.pas</Transaction>
+    <Transaction>2020/11/23 20:09:17.000.176,D:\DelphiProjects\UnimedFluxo\frmFiltroImpressaoCidades.dfm=D:\DelphiProjects\UnimedFluxo\frmFiltroImpressaoCliente.dfm</Transaction>
+    <Transaction>2020/11/23 20:31:56.000.615,D:\DelphiProjects\UnimedFluxo\frmFiltroImpressaoCidades.pas=</Transaction>
+    <Transaction>2020/11/23 20:31:57.000.896,D:\DelphiProjects\UnimedFluxo\frmRelatorioCidades.pas=</Transaction>
+    <Transaction>2020/11/23 20:32:06.000.338,D:\DelphiProjects\UnimedFluxo\frmRelatorio.pas=</Transaction>
+    <Transaction>2020/11/23 20:32:06.000.316,D:\DelphiProjects\UnimedFluxo\frmFiltroImpressao.pas=</Transaction>
+    <Transaction>2020/11/27 15:35:01.000.038,=D:\DelphiProjects\UnimedFluxo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
